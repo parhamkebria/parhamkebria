@@ -42,12 +42,12 @@ Here are some ideas to get you started:
 
 ## 📊 Tech & Tools
 
-Languages & Frameworks:
-Python C++ MATLAB TensorFlow PyTorch ROS Swift
+# Languages & Frameworks:
+Python | C/C++/C# | MATLAB | TensorFlow | PyTorch | ROS | Swift | R
 
-Specialties:
-Robotics Control Autonomous Driving ML/DL Pipelines Teleoperation
+# Specialties:
+Robotics | Control | Autonomous Driving | ML/DL Pipelines | Teleoperation | Medical Robotics
 Health Data Analytics | Computer Vision | Imitation Learning
 
 Platforms:
-Linux macOS iOS Cloud (AWS/GCP)
+Linux | macOS | iOS | Cloud (AWS/GCP) | Containers (Docker)
