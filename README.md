@@ -48,9 +48,11 @@ Here are some ideas to get you started:
 - 🔹 [**Robust Teleoperation (ICRA'23)**](https://youtu.be/kiTS_zMr1Xg?si=vK-2uMn1PoU1fJeW) - Stable Adaptive Neural Filters for Robust Teleoperation Under Uncertain Delays.
 - 🔹 [**ATLAS Indigenous Health Data Network**](#) – Led data analytics team at UQ’s Poche Centre to harness real-world **big health data** for improved screening and treatment of STIs, BBVs, and VPDs.
 - 🔹 [**Health Literacy Analysis (ABS)**](#) – End-to-end ML pipelines analyzing 20 years of Australian population health data, in collaboration with Australian Bureau of Statistics (ABS).
-- 🔹 [**Move the Next Gen**](#) – An **end-to-end deep learning framework**, including a complete **hardware and software deployment** for action recognition and motor skill assessment in children.
-- 🔹 [**Tinnitus Diagnosis from Brain Signals**](https://www.youtube.com/watch?v=2C0Yn3XZRD4) - Development and implementation of a machine‑learning software for diagnosing tinnitus and its severity, in collaboration with Melbourne Bionics Institute.
 - 🔹 [**Cross-Platform Surgical Skill Transfer**](#) – Multi-modal deep learning for robotic-assisted surgery using endoscopic data, experimental cross-functionality between two surgical robots: HeroSurg and Da-Vinci S.
+- 🔹 [**TMS TeleRobotic System**](#) – Designed and developed a **haptically-enabled teleoperated robotic platform** for Transcranial Magnetic Stimulation (TMS), advancing cortical/brain research and supporting treatment of depression.  
+- 🔹 [**Move the Next Gen**](#) – An **end-to-end deep learning framework**, including a complete **hardware and software deployment** for action recognition and motor skill assessment in children.
+- 🔹 [**B-CORE Orthopaedic Outcomes AI**](#) – Developed and deployed ML pipelines to analyze **20 years of orthopedic patient data** at Barwon Health & St John of God Hospital, improving insights into surgery outcomes and health literacy.  
+- 🔹 [**Tinnitus Diagnosis from Brain Signals**](https://www.youtube.com/watch?v=2C0Yn3XZRD4) - Development and implementation of a machine‑learning software for diagnosing tinnitus and its severity, in collaboration with Melbourne Bionics Institute.
 - 🔹 [**UR5 Manipulator Toolbox**](https://www.mathworks.com/matlabcentral/fileexchange/72049-kinematic-and-dynamic-modelling-of-ur5-manipulator) – MATLAB toolbox for kinematic & dynamic modeling (2K+ downloads, cited in global research).
 
 ---
