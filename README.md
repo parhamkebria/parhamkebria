@@ -66,5 +66,5 @@ Linux | macOS | iOS | Cloud (AWS/GCP) | Containers (Docker)
 
 # 📫 Connect with Me
 - 🌐 [**Website / Portfolio**](https://parhamkebria.com/)
-- 💼 [**LinkedIn**](www.linkedin.com/in/parhamkebria/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/parhamkebria/)
 - 📖 [**Google Scholar**](https://scholar.google.com/citations?user=J18BkakAAAAJ&hl=en)
