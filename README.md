@@ -32,6 +32,14 @@ Here are some ideas to get you started:
 
 --- 
 
+# 🏆 Highlights
+- 🎥 Featured on 9NEWS Australia and interviewed on ABC Radio for robotics breakthroughs.
+- 📈 Developed vision-based real-time ML/DL systems for autonomous driving under extreme conditions.
+- 🏥 Pioneered clinical-ready surgical robotics solutions with national health organizations.
+- 📖 Toolbox & frameworks widely adopted and cited by researchers in robotics, manufacturing, and AI.
+
+---
+
 # 🚀 Featured Projects
 
 - 🔹 [**UR5 Manipulator Toolbox**](https://www.mathworks.com/matlabcentral/fileexchange/72049-kinematic-and-dynamic-modelling-of-ur5-manipulator) – MATLAB toolbox for kinematic & dynamic modeling (2K+ downloads, cited in global research).
@@ -57,16 +65,8 @@ Here are some ideas to get you started:
 
 ---
 
-# 🏆 Highlights
-- 🎥 Featured on 9NEWS Australia and interviewed on ABC Radio for robotics breakthroughs.
-- 📈 Developed vision-based real-time ML/DL systems for autonomous driving under extreme conditions.
-- 🏥 Pioneered clinical-ready surgical robotics solutions with national health organizations.
-- 📖 Toolbox & frameworks widely adopted and cited by researchers in robotics, manufacturing, and AI.
-
----
-
 # 📫 Connect with Me
 - 🌐 [**Website / Portfolio**](https://parhamkebria.com/)
 - 📖 [**Google Scholar**](https://scholar.google.com/citations?user=J18BkakAAAAJ&hl=en)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/parhamkebria/)
-- 📧 [**Email**](mailto:parhamkebria@ieee.org) 
+- 📧 [**Email**](mailto:parhamkebria@ieee.org) <!-- 📧 yourname [at] domain [dot] com -->
