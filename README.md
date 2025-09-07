@@ -70,3 +70,8 @@ Here are some ideas to get you started:
 - 📖 [**Google Scholar**](https://scholar.google.com/citations?user=J18BkakAAAAJ&hl=en)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/parhamkebria/)
 - 📧 [**Email**](mailto:parhamkebria@ieee.org) <!-- 📧 yourname [at] domain [dot] com -->
+
+---
+
+© 2025 **Parham Kebria** – All rights reserved.  
+Unauthorized use, reproduction, or distribution of this content is prohibited.  
