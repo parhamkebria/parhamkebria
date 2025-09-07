@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 - 🔹 [**Autonomous Leader-Follower System**](https://www.youtube.com/watch?v=EISgE9mGMtw&ab_channel=AustralianArmy) – Vision-based ML/DL perception & autonomous driving for Australian Army trucks.
 - 🔹 [**Robust Teleoperation (ICRA'23)**](https://youtu.be/kiTS_zMr1Xg?si=vK-2uMn1PoU1fJeW) - Stable Adaptive Neural Filters for Robust Teleoperation Under Uncertain Delays.
 - 🔹 [**HERCULES**](https://youtu.be/ZCKWxHAiQvE?si=EXrLu8wOgY-Vysro) – World-first haptically-enabled telerobotic ultrasound platform (clinical trial approved, broadcast nationally).
+- 🔹 [**ATLAS Indigenous Health Data Network**](#) – Led data analytics team at UQ’s Poche Centre to harness real-world **big health data** for improved screening and treatment of STIs, BBVs, and VPDs in collaboration with ACCHOs, emphasizing **ethical data practices** and **team/project management**.
 - 🔹 [**Cross-Platform Surgical Skill Transfer**](#) – Multi-modal deep learning for robotic-assisted surgery using endoscopic data.
 - 🔹 [**Health Literacy Analysis (ABS)**](#) – End-to-end ML pipelines analyzing 20 years of Australian population health data.
 
