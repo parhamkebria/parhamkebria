@@ -86,6 +86,7 @@ Unauthorized use, reproduction, or distribution of this content is prohibited.
 -->
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2025a-orange?style=flat-square&logo=mathworks&logoColor=white)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square)
 
