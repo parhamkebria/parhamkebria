@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Parham Kebria
+# Hi there 👋 I'm Parham Kebria
 
 <!--
 **parhamkebria/parhamkebria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 🏆 Recipient of the Essington Lewis Award for Defence innovation.
 🌍 Dedicated to building inclusive, ethical, and human-centered AI solutions.
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 🔹 UR5 Manipulator Toolbox
  – MATLAB toolbox for kinematic & dynamic modeling (1800+ downloads, cited in global research).
@@ -40,14 +40,14 @@ Here are some ideas to get you started:
 🔹 Health Literacy Analysis (ABS)
  – End-to-end ML pipelines analyzing 20 years of Australian population health data.
 
-## 📊 Tech & Tools
+# 📊 Tech & Tools
 
-# Languages & Frameworks:
+## Languages & Frameworks:
 Python | C/C++/C# | MATLAB | TensorFlow | PyTorch | ROS | Swift | R
 
-# Specialties:
+## Specialties:
 Robotics | Control | Autonomous Driving | ML/DL Pipelines | Teleoperation | Medical Robotics
 Health Data Analytics | Computer Vision | Imitation Learning
 
-Platforms:
+## Platforms:
 Linux | macOS | iOS | Cloud (AWS/GCP) | Containers (Docker)
