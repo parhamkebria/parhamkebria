@@ -83,7 +83,7 @@ Unauthorized use, reproduction, or distribution of this content is prohibited.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parhamkebria&theme=radical)
 -->
 
-![Parham's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parham&theme=react-dark&area=true)
+![Parham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parhamkebria&show_icons=true&theme=radical)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2025a-orange?style=flat-square&logo=mathworks&logoColor=white)
