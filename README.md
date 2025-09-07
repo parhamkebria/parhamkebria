@@ -1,5 +1,15 @@
 # Hi there 👋 I'm Parham Kebria
 
+![Parham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parham&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parham&theme=radical)
+
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-R2025a-orange?style=flat-square&logo=mathworks&logoColor=white)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square)
+
+
 <!--
 **parhamkebria/parhamkebria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
