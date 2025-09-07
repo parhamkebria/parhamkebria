@@ -67,5 +67,5 @@ Here are some ideas to get you started:
 # 📫 Connect with Me
 - 🌐 [**Website / Portfolio**](https://parhamkebria.com/)
 - 📖 [**Google Scholar**](https://scholar.google.com/citations?user=J18BkakAAAAJ&hl=en)
-- - 💼 [**LinkedIn**](https://www.linkedin.com/in/parhamkebria/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/parhamkebria/)
 - 📧 [**Email**](mailto:parhamkebria@ieee.org) 
