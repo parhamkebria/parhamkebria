@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 🏆 Recipient of the Essington Lewis Award for Defence innovation.
 🌍 Dedicated to building inclusive, ethical, and human-centered AI solutions.
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 🔹 UR5 Manipulator Toolbox
  – MATLAB toolbox for kinematic & dynamic modeling (1800+ downloads, cited in global research).
