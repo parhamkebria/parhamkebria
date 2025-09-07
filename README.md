@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 🔹 [**UR5 Manipulator Toolbox**](#) – MATLAB toolbox for kinematic & dynamic modeling (1800+ downloads, cited in global research).
 - 🔹 [**Autonomous Leader-Follower System**](#) – Vision-based ML/DL perception & autonomous driving for Australian Army trucks.
-- 🔹 [**Robust Teleoperation Under Uncertain Delays (ICRA'23)**](https://youtu.be/kiTS_zMr1Xg?si=vK-2uMn1PoU1fJeW) - Stable Adaptive Neural Filters for Robust Teleoperation Under Uncertain Delays.
+- 🔹 [**Robust Teleoperation (ICRA'23)**](https://youtu.be/kiTS_zMr1Xg?si=vK-2uMn1PoU1fJeW) - Stable Adaptive Neural Filters for Robust Teleoperation Under Uncertain Delays.
 - 🔹 [**HERCULES**](https://youtu.be/ZCKWxHAiQvE?si=EXrLu8wOgY-Vysro) – World-first haptically-enabled telerobotic ultrasound platform (clinical trial approved, broadcast nationally).
 - 🔹 [**Cross-Platform Surgical Skill Transfer**](#) – Multi-modal deep learning for robotic-assisted surgery using endoscopic data.
 - 🔹 [**Health Literacy Analysis (ABS)**](#) – End-to-end ML pipelines analyzing 20 years of Australian population health data.
