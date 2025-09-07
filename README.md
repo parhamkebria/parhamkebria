@@ -1,5 +1,4 @@
 # Hi there 👋 I'm Parham Kebria
-⭐️ “Building the future of autonomy and intelligent systems to improve quality of life, industry, and healthcare.”
 
 <!--
 **parhamkebria/parhamkebria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +18,8 @@ Here are some ideas to get you started:
 🎯 Senior Data Scientist | Robotics & AI Researcher | Autonomous Systems Engineer
 
 🚀 Passionate about advancing autonomy, healthcare robotics, and intelligent data-driven solutions.
+
+⭐️ “Building the future of autonomy and intelligent systems to improve quality of life, industry, and healthcare.”
 
 ---
 
