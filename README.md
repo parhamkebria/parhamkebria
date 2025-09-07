@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 - 🔹 [**HERCULES**](https://youtu.be/ZCKWxHAiQvE?si=EXrLu8wOgY-Vysro) – World-first haptically-enabled telerobotic ultrasound platform (clinical trial approved, broadcast nationally).
 - 🔹 [**ATLAS Indigenous Health Data Network**](#) – Led data analytics team at UQ’s Poche Centre to harness real-world **big health data** for improved screening and treatment of STIs, BBVs, and VPDs.
 - 🔹 [**Health Literacy Analysis (ABS)**](#) – End-to-end ML pipelines analyzing 20 years of Australian population health data.
+- 🔹 [**Move the Next Gen**](#) – An **end-to-end deep learning framework** for action recognition and motor skill assessment in children, including a complete **hardware and software deployment**.
+- 🔹 [**Tinnitus Diagnosis from Brain Signals**](https://www.youtube.com/watch?v=2C0Yn3XZRD4) - Development and implementation of a machine‑learning software for diagnosing tinnitus and its severity.
 - 🔹 [**Cross-Platform Surgical Skill Transfer**](#) – Multi-modal deep learning for robotic-assisted surgery using endoscopic data.
 - 🔹 [**UR5 Manipulator Toolbox**](https://www.mathworks.com/matlabcentral/fileexchange/72049-kinematic-and-dynamic-modelling-of-ur5-manipulator) – MATLAB toolbox for kinematic & dynamic modeling (2K+ downloads, cited in global research).
 
