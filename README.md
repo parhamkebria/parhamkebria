@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 🎯 Senior Data Scientist | Robotics & AI Researcher | Autonomous Systems Engineer
+
 🚀 Passionate about advancing autonomy, healthcare robotics, and intelligent data-driven solutions.
 
 ---
@@ -35,21 +35,17 @@ Here are some ideas to get you started:
 # 🚀 Featured Projects
 
 - [**🔹 UR5 Manipulator Toolbox**](#) – MATLAB toolbox for kinematic & dynamic modeling (1800+ downloads, cited in global research).
-🔹 Autonomous Leader-Follower System
- – Vision-based ML/DL perception & autonomous driving for Australian Army trucks.
-🔹 HERCULES
- – World-first haptically-enabled telerobotic ultrasound platform (clinical trial approved, broadcast nationally).
-🔹 Cross-Platform Surgical Skill Transfer
- – Multi-modal deep learning for robotic-assisted surgery using endoscopic data.
-🔹 Health Literacy Analysis (ABS)
- – End-to-end ML pipelines analyzing 20 years of Australian population health data.
+- 🔹 [**Autonomous Leader-Follower System**](#) – Vision-based ML/DL perception & autonomous driving for Australian Army trucks.
+- 🔹 [**HERCULES**](#) – World-first haptically-enabled telerobotic ultrasound platform (clinical trial approved, broadcast nationally).
+- 🔹 [**Cross-Platform Surgical Skill Transfer**](#) – Multi-modal deep learning for robotic-assisted surgery using endoscopic data.
+- 🔹 [**Health Literacy Analysis (ABS)**](#) – End-to-end ML pipelines analyzing 20 years of Australian population health data.
 
 ---
 
 # 📊 Tech & Tools
 
 **Languages & Frameworks:**
-Python • C/C++/C# • MATLAB | TensorFlow | PyTorch | ROS | Swift | R
+Python • C/C++/C# • MATLAB • TensorFlow • PyTorch • ROS • Swift • R
 
 **Specialties:**
 - Robotics | Control | Autonomous Driving | ML/DL Pipelines | Teleoperation | Medical Robotics
@@ -69,6 +65,6 @@ Linux | macOS | iOS | Cloud (AWS/GCP) | Containers (Docker)
 ---
 
 # 📫 Connect with Me
-- 🌐 Website / Portfolio
-- 💼 LinkedIn
-- 📖 Google Scholar
+- 🌐 [**Website / Portfolio**](https://parhamkebria.com/)
+- 💼 [**LinkedIn**](www.linkedin.com/in/parhamkebria)
+- 📖 [**Google Scholar**](https://scholar.google.com/citations?user=J18BkakAAAAJ&hl=en)
