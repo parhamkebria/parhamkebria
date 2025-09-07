@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 **Specialties:**
 - Robotics | Control | Autonomous Driving | ML/DL Pipelines | Teleoperation | Medical Robotics
-- Health Data Analytics | Computer Vision | Imitation Learning
+- Health Data Analytics | Generative AI | Imitation Learning | LLM/VLM | Foundation Models
 
 **Platforms:**
 - Linux | macOS | iOS | Cloud (AWS/GCP) | Containers (Docker)
