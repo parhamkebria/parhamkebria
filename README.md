@@ -78,8 +78,10 @@ Here are some ideas to get you started:
 © 2025 **Parham Kebria** – All rights reserved.  
 Unauthorized use, reproduction, or distribution of this content is prohibited.  
 
+<!--
 ![Parham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parhamkebria&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parhamkebria&theme=radical)
+-->
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2025a-orange?style=flat-square&logo=mathworks&logoColor=white)
