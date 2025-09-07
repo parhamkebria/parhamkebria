@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - 🔹 [**Health Literacy Analysis (ABS)**](#) – End-to-end ML pipelines analyzing 20 years of Australian population health data, in collaboration with Australian Bureau of Statistics (ABS).
 - 🔹 [**Move the Next Gen**](#) – An **end-to-end deep learning framework**, including a complete **hardware and software deployment** for action recognition and motor skill assessment in children.
 - 🔹 [**Tinnitus Diagnosis from Brain Signals**](https://www.youtube.com/watch?v=2C0Yn3XZRD4) - Development and implementation of a machine‑learning software for diagnosing tinnitus and its severity, in collaboration with Melbourne Bionics Institute.
-- 🔹 [**Cross-Platform Surgical Skill Transfer**](#) – Multi-modal deep learning for robotic-assisted surgery using endoscopic data.
+- 🔹 [**Cross-Platform Surgical Skill Transfer**](#) – Multi-modal deep learning for robotic-assisted surgery using endoscopic data, experimental cross-functionality between two surgical robots: HeroSurg and Da-Vinci S.
 - 🔹 [**UR5 Manipulator Toolbox**](https://www.mathworks.com/matlabcentral/fileexchange/72049-kinematic-and-dynamic-modelling-of-ur5-manipulator) – MATLAB toolbox for kinematic & dynamic modeling (2K+ downloads, cited in global research).
 
 ---
