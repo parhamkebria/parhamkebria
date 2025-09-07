@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 # 🚀 Featured Projects
 
-- [**🔹 UR5 Manipulator Toolbox**](#) – MATLAB toolbox for kinematic & dynamic modeling (1800+ downloads, cited in global research).
+- 🔹 [**UR5 Manipulator Toolbox**](#) – MATLAB toolbox for kinematic & dynamic modeling (1800+ downloads, cited in global research).
 - 🔹 [**Autonomous Leader-Follower System**](#) – Vision-based ML/DL perception & autonomous driving for Australian Army trucks.
 - 🔹 [**HERCULES**](#) – World-first haptically-enabled telerobotic ultrasound platform (clinical trial approved, broadcast nationally).
 - 🔹 [**Cross-Platform Surgical Skill Transfer**](#) – Multi-modal deep learning for robotic-assisted surgery using endoscopic data.
@@ -66,5 +66,5 @@ Linux | macOS | iOS | Cloud (AWS/GCP) | Containers (Docker)
 
 # 📫 Connect with Me
 - 🌐 [**Website / Portfolio**](https://parhamkebria.com/)
-- 💼 [**LinkedIn**](www.linkedin.com/in/parhamkebria)
+- 💼 [**LinkedIn**](www.linkedin.com/in/parhamkebria/)
 - 📖 [**Google Scholar**](https://scholar.google.com/citations?user=J18BkakAAAAJ&hl=en)
