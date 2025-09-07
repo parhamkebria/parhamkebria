@@ -1,4 +1,5 @@
 # Hi there 👋 I'm Parham Kebria
+⭐️ “Building the future of autonomy and intelligent systems to improve quality of life, industry, and healthcare.”
 
 <!--
 **parhamkebria/parhamkebria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,3 +52,14 @@ Health Data Analytics | Computer Vision | Imitation Learning
 
 ## Platforms:
 Linux | macOS | iOS | Cloud (AWS/GCP) | Containers (Docker)
+
+# 🏆 Highlights
+🎥 Featured on 9NEWS Australia and interviewed on ABC Radio for robotics breakthroughs.
+📈 Developed vision-based real-time ML/DL systems for autonomous driving under extreme conditions.
+🏥 Pioneered clinical-ready surgical robotics solutions with national health organizations.
+📖 Toolbox & frameworks widely adopted and cited by researchers in robotics, manufacturing, and AI.
+
+# 📫 Connect with Me
+🌐 Website / Portfolio
+💼 LinkedIn
+📖 Google Scholar
