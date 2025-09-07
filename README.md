@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 - Health Data Analytics | Generative AI | Imitation Learning | LLM/VLM | Foundation Models
 
 **Platforms:**
-- Linux | macOS | iOS | Cloud (AWS/GCP) | Containers (Docker)
+- Linux | macOS | iOS | Cloud (AWS/GCP) | Containers (Docker) | Distributed/Parallel Computing
 
 ---
 
