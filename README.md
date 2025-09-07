@@ -45,14 +45,14 @@ Here are some ideas to get you started:
 # 📊 Tech & Tools
 
 **Languages & Frameworks:**
-Python • C/C++/C# • MATLAB • TensorFlow • PyTorch • ROS • Swift • R
+- Python • C/C++/C# • MATLAB • TensorFlow • PyTorch • ROS • Swift • R
 
 **Specialties:**
 - Robotics | Control | Autonomous Driving | ML/DL Pipelines | Teleoperation | Medical Robotics
 - Health Data Analytics | Computer Vision | Imitation Learning
 
 **Platforms:**
-Linux | macOS | iOS | Cloud (AWS/GCP) | Containers (Docker)
+- Linux | macOS | iOS | Cloud (AWS/GCP) | Containers (Docker)
 
 ---
 
@@ -66,6 +66,6 @@ Linux | macOS | iOS | Cloud (AWS/GCP) | Containers (Docker)
 
 # 📫 Connect with Me
 - 🌐 [**Website / Portfolio**](https://parhamkebria.com/)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/parhamkebria/)
 - 📖 [**Google Scholar**](https://scholar.google.com/citations?user=J18BkakAAAAJ&hl=en)
+- - 💼 [**LinkedIn**](https://www.linkedin.com/in/parhamkebria/)
 - 📧 [**Email**](mailto:parhamkebria@ieee.org) 
