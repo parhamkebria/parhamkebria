@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎯 Senior Data Scientist | Robotics & AI Researcher | Autonomous Systems Engineer
+🎯 Senior Data Scientist | Roboticist & AI Researcher | Autonomous Systems Engineer
 
 🚀 Passionate about advancing autonomy, healthcare robotics, and intelligent data-driven solutions.
 
