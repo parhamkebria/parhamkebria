@@ -97,9 +97,6 @@ Here are some ideas to get you started:
 © 2025 **Parham Kebria** – All rights reserved.  
 Unauthorized use, reproduction, or distribution of this content is prohibited.   ![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square)
 
-![Parham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parhamkebria&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parhamkebria&theme=radical)
-
 <!--
 ![Parham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parhamkebria&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parhamkebria&theme=radical)
