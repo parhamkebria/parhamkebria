@@ -95,15 +95,15 @@ Here are some ideas to get you started:
 ---
 
 © 2025 **Parham Kebria** – All rights reserved.  
-Unauthorized use, reproduction, or distribution of this content is prohibited.  
+Unauthorized use, reproduction, or distribution of this content is prohibited.   ![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square)
 
 <!--
 ![Parham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parhamkebria&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parhamkebria&theme=radical)
 -->
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python&logoColor=white)
+<!-- ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-R2022b-orange?style=flat-square&logo=mathworks&logoColor=white)
-![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-R2022b-orange?style=flat-square&logo=mathworks&logoColor=white) -->
+
 
