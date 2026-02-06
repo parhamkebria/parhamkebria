@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 🌟 About Me
 
-- 🔬 Senior Data Scientist & Robotics Researcher at the University of Queensland and North Carolina A&T, leading multidisciplinary projects in AI, robotics, and data science.
+- 🔬 Senior Data Scientist & Robotics Researcher leading multidisciplinary projects in AI, robotics, and data science.
 - 🤖 Expertise in robotics, autonomous driving, medical robotics, and ML/DL systems with real-world deployments.
 - 🔭 Collaborated with Austin Health, Epworth Health, ABS, NASA, Air Force, and Defence projects to deliver impactful technologies.
 - 🏆 Recipient of the Essington Lewis Award for Defence innovation.
