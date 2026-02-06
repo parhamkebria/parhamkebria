@@ -79,21 +79,19 @@ Here are some ideas to get you started:
 
 ---
 #  Top langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamkebria&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamkebria&layout=donut&theme=tokyonight&hide_border=true&langs_count=8) -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parhamkebria&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parhamkebria&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parhamkebria&theme=github_dark&langs_count=10)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parhamkebria&theme=github_dark&langs_count=10)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parhamkebria&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamkebria&layout=compact&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parhamkebria&show_icons=true&theme=radical) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamkebria&layout=compact&theme=radical) -->
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=parhamkebria&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=parhamkebria&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<!-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamkebria&layout=donut&theme=tokyonight&hide_border=true)
-
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamkebria&layout=donut&theme=tokyonight&hide_border=true) -->
 
 ---
 
