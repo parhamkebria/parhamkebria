@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 ---
 
-© 2025 **Parham Kebria** – All rights reserved.  
+![Year](https://img.shields.io/badge/year-2026-blue) Copyright © **Parham Kebria** – All rights reserved.  
 Unauthorized use, reproduction, or distribution of this content is prohibited.   ![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square)
 
 <!--
