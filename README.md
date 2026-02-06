@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamkebria&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/commits?username=parhamkebria&theme=github_dark)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/commits?username=parhamkebria&theme=github_dark) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamkebria&layout=donut&theme=tokyonight&hide_border=true&langs_count=8) -->
 
