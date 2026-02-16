@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 # 🏆 Highlights
 - 🎥 Featured on 9NEWS Australia and interviewed on ABC Radio for robotics breakthroughs.
 - 📈 Developed vision-based real-time ML/DL systems for autonomous driving under extreme conditions.
-- 🏥 Pioneered clinical-ready surgical robotics solutions with national health organizations.
+- 🏥 Pioneered clinical-ready medical robotics solutions with national health organizations.
 - 📖 Toolbox & frameworks widely adopted and cited by researchers in robotics, manufacturing, and AI.
 
 ---
