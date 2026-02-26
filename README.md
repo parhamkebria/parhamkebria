@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-
 ## About Me
 - Senior Data Scientist | Roboticist & AI Researcher | Autonomous Systems Engineer
 - Passionate about advancing autonomy, healthcare robotics, and intelligent data-driven solutions.
