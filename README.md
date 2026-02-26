@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ---
 -->
 
-# 🚀 Featured Projects
+# Featured Projects
 
 - 🔹 [**HERCULES**](https://youtu.be/ZCKWxHAiQvE?si=EXrLu8wOgY-Vysro) – World-first haptically-enabled telerobotic ultrasound platform (clinical trial approved, broadcast nationally), collaboration with Epworth and Austin Health.
 - 🔹 [**Autonomous Leader-Follower System**](https://www.youtube.com/watch?v=EISgE9mGMtw&ab_channel=AustralianArmy) – Vision-based ML/DL perception & autonomous driving for Australian Army trucks.
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ---
 
-# 📊 Tech & Tools
+# Tech & Tools
 
 **Specialties:**
 - Robotics | Control | Autonomous Driving | ML/DL Pipelines | Teleoperation | Medical Robotics
@@ -162,7 +162,7 @@ Here are some ideas to get you started:
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=parhamkebria&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=parhamkebria&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamkebria&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
