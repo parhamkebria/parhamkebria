@@ -37,17 +37,17 @@ I'm [Parham Kebria](https://github.com/parhamkebria) a roboticist & AI researche
 
 # Featured Projects
 
-- 🔹 [**HERCULES**](https://youtu.be/ZCKWxHAiQvE?si=EXrLu8wOgY-Vysro) – World-first haptically-enabled telerobotic ultrasound platform (clinical trial approved, broadcast nationally), collaboration with Epworth and Austin Health.
-- 🔹 [**Autonomous Leader-Follower System**](https://www.youtube.com/watch?v=EISgE9mGMtw&ab_channel=AustralianArmy) – Vision-based ML/DL perception & autonomous driving for Australian Army trucks.
-- 🔹 [**Robust Teleoperation (ICRA'23)**](https://youtu.be/kiTS_zMr1Xg?si=vK-2uMn1PoU1fJeW) - Stable Adaptive Neural Filters for Robust Teleoperation Under Uncertain Delays.
-- 🔹 [**ATLAS Indigenous Health Data Network**](https://poche.centre.uq.edu.au/atlas-indigenous-primary-care-surveillance-and-research-network) – Led data analytics team at UQ’s Poche Centre to harness real-world **big health data** for improved screening and treatment of STIs, BBVs, and VPDs.
-- 🔹 [**Cross-Platform Surgical Skill Transfer**](https://parhamkebria.com/surg.html) – Multi-modal deep learning for robotic-assisted surgery using endoscopic data, experimental cross-functionality between two surgical robots: HeroSurg and Da-Vinci S.
-- 🔹 [**TMS TeleRobotic System**](#) – Designed and developed a **haptically-enabled teleoperated robotic platform** for Transcranial Magnetic Stimulation (TMS), advancing cortical/brain research and supporting treatment of depression.  
-- 🔹 [**UR5 Manipulator Toolbox**](https://www.mathworks.com/matlabcentral/fileexchange/72049-kinematic-and-dynamic-modelling-of-ur5-manipulator) – MATLAB toolbox for kinematic & dynamic modeling (2K+ downloads, cited in global research).
-<!-- - 🔹 [**Move the Next Gen**](#) – An **end-to-end deep learning framework**, including a complete **hardware and software deployment** for action recognition and motor skill assessment in children. -->
-<!-- - 🔹 [**B-CORE Orthopaedic Outcomes AI**](#) – Developed and deployed ML pipelines to analyze **20 years of orthopedic patient data** at Barwon Health & St John of God Hospital, improving insights into surgery outcomes and health literacy.  -->
-<!-- - 🔹 [**Tinnitus Diagnosis from Brain Signals**](https://www.youtube.com/watch?v=2C0Yn3XZRD4) - Development and implementation of a machine‑learning software for diagnosing tinnitus and its severity, in collaboration with Melbourne Bionics Institute. -->
-<!-- - 🔹 [**Health Literacy Analysis (ABS)**](#) – End-to-end ML pipelines analyzing 20 years of Australian population health data, in collaboration with Australian Bureau of Statistics (ABS). -->
+- [**HERCULES**](https://youtu.be/ZCKWxHAiQvE?si=EXrLu8wOgY-Vysro) – World-first haptically-enabled telerobotic ultrasound platform (clinical trial approved, broadcast nationally), collaboration with Epworth and Austin Health.
+- [**Autonomous Leader-Follower System**](https://www.youtube.com/watch?v=EISgE9mGMtw&ab_channel=AustralianArmy) – Vision-based ML/DL perception & autonomous driving for Australian Army trucks.
+- [**Robust Teleoperation (ICRA'23)**](https://youtu.be/kiTS_zMr1Xg?si=vK-2uMn1PoU1fJeW) - Stable Adaptive Neural Filters for Robust Teleoperation Under Uncertain Delays.
+- [**ATLAS Indigenous Health Data Network**](https://poche.centre.uq.edu.au/atlas-indigenous-primary-care-surveillance-and-research-network) – Led data analytics team at UQ’s Poche Centre to harness real-world **big health data** for improved screening and treatment of STIs, BBVs, and VPDs.
+- [**Cross-Platform Surgical Skill Transfer**](https://parhamkebria.com/surg.html) – Multi-modal deep learning for robotic-assisted surgery using endoscopic data, experimental cross-functionality between two surgical robots: HeroSurg and Da-Vinci S.
+- [**TMS TeleRobotic System**](#) – Designed and developed a **haptically-enabled teleoperated robotic platform** for Transcranial Magnetic Stimulation (TMS), advancing cortical/brain research and supporting treatment of depression.  
+- [**UR5 Manipulator Toolbox**](https://www.mathworks.com/matlabcentral/fileexchange/72049-kinematic-and-dynamic-modelling-of-ur5-manipulator) – MATLAB toolbox for kinematic & dynamic modeling (2K+ downloads, cited in global research).
+<!-- - [**Move the Next Gen**](#) – An **end-to-end deep learning framework**, including a complete **hardware and software deployment** for action recognition and motor skill assessment in children. -->
+<!-- - [**B-CORE Orthopaedic Outcomes AI**](#) – Developed and deployed ML pipelines to analyze **20 years of orthopedic patient data** at Barwon Health & St John of God Hospital, improving insights into surgery outcomes and health literacy.  -->
+<!-- - [**Tinnitus Diagnosis from Brain Signals**](https://www.youtube.com/watch?v=2C0Yn3XZRD4) - Development and implementation of a machine‑learning software for diagnosing tinnitus and its severity, in collaboration with Melbourne Bionics Institute. -->
+<!-- - [**Health Literacy Analysis (ABS)**](#) – End-to-end ML pipelines analyzing 20 years of Australian population health data, in collaboration with Australian Bureau of Statistics (ABS). -->
 
 ---
 
