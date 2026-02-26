@@ -15,21 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎯 Senior Data Scientist | Roboticist & AI Researcher | Autonomous Systems Engineer
-
-🚀 Passionate about advancing autonomy, healthcare robotics, and intelligent data-driven solutions.
-
-⭐️ “Building the future of autonomy and intelligent systems to improve quality of life, industry, and healthcare.”
-
 ---
 
-## 🌟 About Me
-
-- 🔬 Senior Data Scientist & Robotics Researcher leading multidisciplinary projects in AI, robotics, and data science.
-- 🤖 Expertise in robotics, autonomous driving, medical robotics, and ML/DL systems with real-world deployments.
-- 🔭 Collaborated with Austin Health, Epworth Health, ABS, NASA, Air Force, and Defence projects to deliver impactful technologies.
-- 🏆 Recipient of the Essington Lewis Award for Defence innovation.
-- 🌍 Dedicated to building inclusive, ethical, and human-centered AI solutions.
+## About Me
+- Senior Data Scientist | Roboticist & AI Researcher | Autonomous Systems Engineer
+- Passionate about advancing autonomy, healthcare robotics, and intelligent data-driven solutions.
+- “Building the future of autonomy and intelligent systems to improve quality of life, industry, and healthcare.”
+<!--
+- Senior Data Scientist & Robotics Researcher leading multidisciplinary projects in AI, robotics, and data science.
+- Expertise in robotics, autonomous driving, medical robotics, and ML/DL systems with real-world deployments.
+- Collaborated with Austin Health, Epworth Health, ABS, NASA, Air Force, and Defence projects to deliver impactful technologies.
+- Dedicated to building inclusive, ethical, and human-centered AI solutions.
 
 --- 
 
@@ -40,6 +36,7 @@ Here are some ideas to get you started:
 - 📖 Toolbox & frameworks widely adopted and cited by researchers in robotics, manufacturing, and AI.
 
 ---
+-->
 
 # 🚀 Featured Projects
 
