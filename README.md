@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Parham Kebria a roboticist & AI researcher, passionate about advancing autonomy, healthcare robotics, and intelligent data-driven solutions.
+I'm [Parham Kebria](https://github.com/parhamkebria) a roboticist & AI researcher, passionate about advancing autonomy, healthcare robotics, and intelligent data-driven solutions.
 
 <!--
 - “Building the future of autonomy and intelligent systems to improve quality of life, industry, and healthcare.”
