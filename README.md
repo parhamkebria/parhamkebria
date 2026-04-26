@@ -164,11 +164,10 @@ I'm [Parham Kebria](https://github.com/parhamkebria) a roboticist & AI researche
 # GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=parhamkebria&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=parhamkebria&theme=dark&hide_border=false)<br/> -->
+
 ![](https://streak-stats.demolab.com/?user=parhamkebria&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamkebria&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://streak-stats.demolab.com/?user=parhamkebria&theme=dark&hide_border=false)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamkebria&layout=donut&theme=tokyonight&hide_border=true&langs_count=8) -->
 
