@@ -169,6 +169,7 @@ I'm [Parham Kebria](https://github.com/parhamkebria) a roboticist & AI researche
 
 ![GitHub Stats](./profile/stats.svg)
 <!--![GitHub Streak](./profile/streak.svg)-->
+![Top Languages](./profile/top-langs.svg)
 
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=parhamkebria&theme=dark&hide_border=false) -->
 
