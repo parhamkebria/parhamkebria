@@ -167,6 +167,10 @@ I'm [Parham Kebria](https://github.com/parhamkebria) a roboticist & AI researche
 
 # GitHub Stats
 
+[![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ![GitHub Stats](./profile/stats.svg)
 <!--![GitHub Streak](./profile/streak.svg)-->
 ![Top Languages](./profile/top-langs.svg)
