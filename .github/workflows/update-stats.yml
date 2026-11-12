@@ -22,7 +22,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
         with:
           USERNAME: parhamkebria
-          THEME: dark
+          THEME: transparent
           CARD_PATH: profile/stats.svg
 
       - name: Generate Streak Stats Card
