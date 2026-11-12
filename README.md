@@ -175,8 +175,8 @@ I'm [Parham Kebria](https://github.com/parhamkebria) a roboticist & AI researche
 <!-- ![GitHub Streak](./profile/streak.svg) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parhamkebria&theme=transparent)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parhamkebria&theme=transparent&langs_count=10)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parhamkebria&theme=transparent&langs_count=10)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parhamkebria&theme=transparent&langs_count=10) -->
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parhamkebria&theme=transparent&langs_count=10) -->
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
