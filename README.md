@@ -166,6 +166,7 @@ I'm [Parham Kebria](https://github.com/parhamkebria) a roboticist & AI researche
 ---
 
 # GitHub Stats
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
