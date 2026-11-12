@@ -16,8 +16,6 @@ I'm [Parham Kebria](https://github.com/parhamkebria) a roboticist & AI researche
 <!-- - [**Tinnitus Diagnosis from Brain Signals**](https://www.youtube.com/watch?v=2C0Yn3XZRD4) - Development and implementation of a machine‑learning software for diagnosing tinnitus and its severity, in collaboration with Melbourne Bionics Institute. -->
 <!-- - [**Health Literacy Analysis (ABS)**](#) – End-to-end ML pipelines analyzing 20 years of Australian population health data, in collaboration with Australian Bureau of Statistics (ABS). -->
 
----
-
 ## Specialties:
 - Robotics | Control | AI/ML
 - Autonomous Driving | Teleoperation | Medical Robotics
