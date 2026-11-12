@@ -169,34 +169,18 @@ I'm [Parham Kebria](https://github.com/parhamkebria) a roboticist & AI researche
 [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<!-- ![GitHub Stats](./profile/stats.svg) -->
+<!-- ![Top Languages](./profile/top-langs.svg) -->
+<!-- ![GitHub Streak](./profile/streak.svg) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=parhamkebria&theme=transparent)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parhamkebria&theme=transparent&langs_count=10)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parhamkebria&theme=transparent&langs_count=10)
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/parhamkebria/parhamkebria/main/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-![GitHub Stats](./profile/stats.svg)
-<!--![GitHub Streak](./profile/streak.svg)-->
-![Top Languages](./profile/top-langs.svg)
-
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=parhamkebria&theme=dark&hide_border=false) -->
-
-![](https://streak-stats.demolab.com/?user=parhamkebria&theme=highcontrast&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=parhamkebria&theme=radical)
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamkebria&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parhamkebria&theme=github_dark&langs_count=10)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parhamkebria&theme=github_dark&langs_count=10)
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parhamkebria&show_icons=true&theme=radical) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamkebria&layout=compact&theme=radical) -->
-
-<!-- [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=parhamkebria&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parhamkebria&layout=donut&theme=tokyonight&hide_border=true) -->
-
 ---
 
 # 📫 Connect with Me
