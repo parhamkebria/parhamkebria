@@ -1,39 +1,6 @@
 # Hi there 👋 
 
-<!--
-**parhamkebria/parhamkebria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I'm [Parham Kebria](https://github.com/parhamkebria) a roboticist & AI researcher, passionate about advancing autonomy, healthcare robotics, and intelligent data-driven solutions.
-
-<!--
-- “Building the future of autonomy and intelligent systems to improve quality of life, industry, and healthcare.”
-- Senior Data Scientist & Robotics Researcher leading multidisciplinary projects in AI, robotics, and data science.
-- Expertise in robotics, autonomous driving, medical robotics, and ML/DL systems with real-world deployments.
-- Collaborated with Austin Health, Epworth Health, ABS, NASA, Air Force, and Defence projects to deliver impactful technologies.
-- Dedicated to building inclusive, ethical, and human-centered AI solutions.
-
---- 
-
-# 🏆 Highlights
-- 🎥 Featured on 9NEWS Australia and interviewed on ABC Radio for robotics breakthroughs.
-- 📈 Developed vision-based real-time ML/DL systems for autonomous driving under extreme conditions.
-- 🏥 Pioneered clinical-ready medical robotics solutions with national health organizations.
-- 📖 Toolbox & frameworks widely adopted and cited by researchers in robotics, manufacturing, and AI.
-
----
--->
 
 <!-- # Featured Projects
 
@@ -51,11 +18,12 @@ I'm [Parham Kebria](https://github.com/parhamkebria) a roboticist & AI researche
 
 ---
 
-# Tech & Tools
+# Sci & Tech
 
-**Specialties:**
-- Robotics | Control | Autonomous Driving | ML/DL Pipelines | Teleoperation | Medical Robotics
-- Health Data Analytics | Generative AI | Imitation Learning <!-- | LLM/VLM | Foundation Models -->
+## Specialties:
+- Robotics | Control | AI/ML
+- Autonomous Driving | Teleoperation | Medical Robotics
+- Health Data Analytics | Generative AI | Imitation Learning
 
 **Languages & Frameworks:**
 
