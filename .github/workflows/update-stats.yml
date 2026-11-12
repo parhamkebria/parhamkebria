@@ -33,9 +33,15 @@ jobs:
           options: user=parhamkebria&theme=dark&hide_border=false
           path: profile/streak.svg
 
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
+          USERNAME: parhamkebria
+
       - name: Commit and Push SVGs
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add profile/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update profile stats" && git push)
+          git add profile/ profile-3d-contrib/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update profile stats and 3D graph" && git push)
