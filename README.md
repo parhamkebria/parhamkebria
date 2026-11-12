@@ -18,8 +18,6 @@ I'm [Parham Kebria](https://github.com/parhamkebria) a roboticist & AI researche
 
 ---
 
-# Sci & Tech
-
 ## Specialties:
 - Robotics | Control | AI/ML
 - Autonomous Driving | Teleoperation | Medical Robotics
